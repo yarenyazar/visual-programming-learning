@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\github_repo\\visual-programming-learning\\register1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EB89587-D016-4469-90F8-605D437BAD55}|register1\\register1.csproj|C:\\github_repo\\visual-programming-learning\\register1\\register1\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3EB89587-D016-4469-90F8-605D437BAD55}|register1\\register1.csproj|c:\\github_repo\\visual-programming-learning\\register1\\register1\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3EB89587-D016-4469-90F8-605D437BAD55}|register1\\register1.csproj|solutionrelative:register1\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -31,7 +31,7 @@
       "RelativeMoniker": "D:0:0:{3EB89587-D016-4469-90F8-605D437BAD55}|register1\\register1.csproj|solutionrelative:register1\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EB89587-D016-4469-90F8-605D437BAD55}|register1\\register1.csproj|c:\\github_repo\\visual-programming-learning\\register1\\register1\\dbmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EB89587-D016-4469-90F8-605D437BAD55}|register1\\register1.csproj|C:\\github_repo\\visual-programming-learning\\register1\\register1\\dbmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EB89587-D016-4469-90F8-605D437BAD55}|register1\\register1.csproj|solutionrelative:register1\\dbmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,6 +55,18 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\github_repo\\visual-programming-learning\\register1\\register1\\Register.cs",
+              "RelativeDocumentMoniker": "register1\\Register.cs",
+              "ToolTip": "C:\\github_repo\\visual-programming-learning\\register1\\register1\\Register.cs [Design]",
+              "RelativeToolTip": "register1\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:20:34.411Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -79,8 +91,7 @@
               "RelativeToolTip": "register1\\MainForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T21:49:45.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T21:49:45.193Z"
             },
             {
               "$type": "Document",
@@ -92,8 +103,7 @@
               "RelativeToolTip": "register1\\Login.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwC0AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T18:24:44.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T18:24:44.95Z"
             },
             {
               "$type": "Document",
@@ -104,8 +114,7 @@
               "ToolTip": "C:\\github_repo\\visual-programming-learning\\register1\\register1\\MainForm.cs [Design]",
               "RelativeToolTip": "register1\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T21:36:34.574Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-07T21:36:34.574Z"
             },
             {
               "$type": "Document",
@@ -117,8 +126,7 @@
               "RelativeToolTip": "register1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T18:35:15.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T18:35:15.488Z"
             },
             {
               "$type": "Document",
@@ -129,20 +137,7 @@
               "ToolTip": "C:\\github_repo\\visual-programming-learning\\register1\\register1\\Login.cs [Design]",
               "RelativeToolTip": "register1\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T18:16:44.359Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Register.cs [Design]",
-              "DocumentMoniker": "C:\\github_repo\\visual-programming-learning\\register1\\register1\\Register.cs",
-              "RelativeDocumentMoniker": "register1\\Register.cs",
-              "ToolTip": "C:\\github_repo\\visual-programming-learning\\register1\\register1\\Register.cs [Design]",
-              "RelativeToolTip": "register1\\Register.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T14:20:34.411Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-07T18:16:44.359Z"
             },
             {
               "$type": "Document",
@@ -154,8 +149,7 @@
               "RelativeToolTip": "register1\\DBManagement.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAgwFcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T14:29:21.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T14:29:21.036Z"
             }
           ]
         }
